@@ -3,11 +3,11 @@
 I'm a software enginner backend
 
 my stacks:
-python
-fastapi
-SQl
-dock
-LLM integration with openai api
+python,
+fastapi,
+SQl,
+dock,
+LLM integration with openai api,
 vetorial database with Qdrant
 
 
